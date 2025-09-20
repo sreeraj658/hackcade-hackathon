@@ -4,26 +4,26 @@
 
 ## Basic Details
 
-**Team Name:** [Your Team Name]
+**Team Name:** Optimizers
 
 ### Team Members
-- **Team Lead:** [Name] - [College]
-- **Member 2:** [Name] - [College]
-- **Member 3:** [Name] - [College]
+- **Team Lead:** Sreeraj M - TKM College of Engineering
+- **Member 2:** Abhishek Nair J- TKM College of Engineering
+
 
 ## Game Description
-[2-3 lines about what your game is, the genre, and what makes it fun or unique.]
+Rage Realm is an fast paced action platformer where players must dodge spikes,saws,falling taps to collect keys and unlock doors with increasing challenges across levels every move tests precision timing amd patience
 
 ## The Concept
-[Explain the core idea of the game—story, gameplay mechanics, or main objective.]
+Rage Realm is precision based platformer that challenges players to navigate a hostile dungeon filled with dynmaic traps,deceptive platforms and timed obstacles
 
 ## Technical Details
 
 ### Technologies Used
-- **Languages:** [C#, Python, JavaScript, etc.]
-- **Game Engines/Frameworks:** [Unity, Unreal Engine, Godot, Phaser, etc.]
-- **Libraries/Assets:** [Any relevant libraries, APIs, or assets used]
-- **Tools:** [Version control, graphic editors, sound tools, etc.]
+- **Languages:** Python
+- **Game Engines/Frameworks:** 
+- **Libraries/Assets:** Pygame
+- **Tools:** 
 
 ### Implementation
 
