@@ -52,7 +52,7 @@ Rage Realm is precision based platformer that challenges players to navigate a h
 ### Game Demo
 
 #### Gameplay Video
-[Add link to gameplay video]  
+https://drive.google.com/file/d/1YWiRBPzWSz29RnwXCzR_Z_hiZBDLt4q3/view?usp=sharing
 
 ## Game Download / Deployment
 - **Playable Version / Download:** [Link to executable or archive]
